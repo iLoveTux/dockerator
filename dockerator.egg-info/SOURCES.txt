@@ -1,0 +1,7 @@
+setup.py
+dockerator/__init__.py
+dockerator.egg-info/PKG-INFO
+dockerator.egg-info/SOURCES.txt
+dockerator.egg-info/dependency_links.txt
+dockerator.egg-info/requires.txt
+dockerator.egg-info/top_level.txt

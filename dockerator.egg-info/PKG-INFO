@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: dockerator
+Version: 0.6.0
+Summary: Provides a decorator which can pull and spin up a docker container and ensure that it is running before executing the function.
+Home-page: http://github.com/ilovetux/dockerator
+Author: iLoveTux
+Author-email: me@ilovetux.com
+License: GPLv2
+Description: UNKNOWN
+Keywords: docker docker-py decorator images containers
+Platform: UNKNOWN
